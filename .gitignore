@@ -1,0 +1,20 @@
+# Node modules
+node_modules/
+
+# Fichiers de build générés (si tu utilises Tailwind avec PostCSS ou un autre build system)
+dist/
+build/
+
+# Dossiers générés par Tailwind (si tu utilises `tailwind build`)
+*.css
+
+# Fichiers temporaires
+*.log
+
+# Configs IDE (Visual Studio Code, WebStorm, etc.)
+.vscode/
+.idea/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
