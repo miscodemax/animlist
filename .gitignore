@@ -5,8 +5,7 @@ node_modules/
 dist/
 build/
 
-# Dossiers générés par Tailwind (si tu utilises `tailwind build`)
-*.css
+
 
 # Fichiers temporaires
 *.log
