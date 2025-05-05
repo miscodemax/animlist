@@ -52,7 +52,7 @@ window.addEventListener("DOMContentLoaded", () => {
 
 
         card.className = 'flex flex-col text-center gap-5 bg-slate-800 rounded-2xl shadow-md overflow-hidden max-w-xs transition hover:scale-105 duration-300';
-        imgTrends.className = 'block w-full min-h-96';
+        imgTrends.className = 'block w-full min-h-96 max-h-96';
         titleTrends.className = 'text-lg font-bold uppercase text-indigo-600';
         synopsisTrends.className = 'text-md text-gray-300 leading-relaxed capitalize font-bold hover:text-light';
 
